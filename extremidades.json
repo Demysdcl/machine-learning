@@ -1,0 +1,16 @@
+{
+  "endpoints": [
+    {
+      "name": "endpoint1",
+      "url": "https://endpoint1.azurewebsites.net",
+      "description": "Endpoint para previsão de dados usando modelo X",
+      "authentication": "API key"
+    },
+    {
+      "name": "endpoint2",
+      "url": "https://endpoint2.azurewebsites.net",
+      "description": "Endpoint para previsão de dados usando modelo Y",
+      "authentication": "API key"
+    }
+  ]
+}
